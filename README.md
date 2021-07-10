@@ -20,5 +20,5 @@ Kamera üzerinden yüzlerin ve her bir yüzün gözleri için yine openCV ile ta
 yapıldı. Tanınan gözler ile model kullanılarak tahmin(predict) işlemi yapıldı. Yapılan tahmin ile 
 gözlerin ait olduğu sınıf , yüzün çerçevesi üzerine yazıldı.
 ### Proje Çıktısı Örnekleri aşağıdaki gibidi
-
+![alt text](https://github.com/htcoztrk/eye-attendion-detection-opencv/blob/master/output_example.PNG "Logo Title Text 1")
 
