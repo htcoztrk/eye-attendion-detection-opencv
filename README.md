@@ -19,6 +19,6 @@ işlemi sonrasında oluşturulan model, trainer dosyasının içine trainer.yml 
 Kamera üzerinden yüzlerin ve her bir yüzün gözleri için yine openCV ile tanıma işlemi 
 yapıldı. Tanınan gözler ile model kullanılarak tahmin(predict) işlemi yapıldı. Yapılan tahmin ile 
 gözlerin ait olduğu sınıf , yüzün çerçevesi üzerine yazıldı.
-### Proje Çıktısı Örnekleri aşağıdaki gibidi
+### Proje çıktı örnekleri aşağıdaki gibidir.
 ![alt text](https://github.com/htcoztrk/eye-attendion-detection-opencv/blob/master/output_example.PNG "Logo Title Text 1")
 
